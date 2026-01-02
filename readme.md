@@ -42,7 +42,7 @@ The dataset contains 953 songs with 24 features including:
 
 ## 🛠️ Technologies Used
 
-- **Python 3.x**
+- **Python 3.11**
 - **Libraries**:
   - `pandas` - Data manipulation
   - `numpy` - Numerical computing
